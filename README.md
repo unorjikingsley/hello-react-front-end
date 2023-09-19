@@ -30,7 +30,7 @@
 
 # 📖 Hello React Frontend <a name="about-project"></a>
 
-> This is a single app with Rails as Frontend
+> This is a single app with React as Frontend
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -107,9 +107,9 @@ To run tests, run the following command:
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Salim Bamahfoodh**
+👤 **Kingsley Unorji**
 
-- GitHub: [@salimer](https://github.com/unorjikingsley)
+- GitHub: [@unorjiKingsley](https://github.com/unorjikingsley)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
