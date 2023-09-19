@@ -46,7 +46,7 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Project BackEnd <a name="-project-backend-"></a>
+### Project BackEnd <a name="-backend-repo"></a>
 
 - <a href="https://github.com/unorjikingsley/hello-rails-back-end.git">Link to Back end repo</a>
 
