@@ -17,7 +17,7 @@ const greetingSlice = createSlice({
         state.isLoading = true;
       })
       .addCase(fetchGreeting.fulfilled, (state, action) => {
-        state.greeting = action.payload.message.content;
+        state.greeting = action.payload.content;
         state.isLoading = false;
       })
       .addCase(fetchGreeting.rejected, (state, action) => {
